@@ -13,6 +13,7 @@ The database project had to have at least two triggers: one for updates and anot
  - The second trigger updated payments values from the table Cars_sold after inserting rows into the table Customer_Payments.
  - The final trigger inserted into a log table information about the cars before deleting it from Cars_for_sale.   
     
+       
 After this, we created a physical relational database based on our ERD. Then, we inserted some data into the database.  
 In the end we had to answer several queries:    
    1. List all the customer’s names, dates, and products or services used/booked/rented/bought by these customers in a range of two dates   
