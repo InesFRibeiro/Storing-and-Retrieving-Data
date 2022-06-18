@@ -11,8 +11,16 @@ We had to design and create an ERD in MySQL workbench and consider the three nor
 The database project had to have at least two triggers: one for updates and another one that inserts a row in a “log” table. However we created 3 triggers:   
  - The first trigger deleted a row from a table (Cars_for_sale) after a row being inserted on another table (Cars_sold).
  - The second trigger updated payments values from the table Cars_sold after inserting rows into the table Customer_Payments.
- - The final trigger inserted into a log table information about the cars before deleting it from Cars_for_sale.
-After this, we created a physical relational database based on our ERD. Then, we inserted some data into the database.   
+ - The final trigger inserted into a log table information about the cars before deleting it from Cars_for_sale.   
+After this, we created a physical relational database based on our ERD. Then, we inserted some data into the database.  
+In the end we had to answer several queries:    
+   1.   
+   2.   
+   3.   
+   4.   
+   5.   
+   6.   
+   7.   
 
 
 <br>
