@@ -15,13 +15,11 @@ The database project had to have at least two triggers: one for updates and anot
     
 After this, we created a physical relational database based on our ERD. Then, we inserted some data into the database.  
 In the end we had to answer several queries:    
-   1.   
-   2.   
-   3.   
-   4.   
-   5.   
-   6.   
-   7.   
+   1. List all the customer’s names, dates, and products or services used/booked/rented/bought by these customers in a range of two dates   
+   2. List the best three customers/products/services/places   
+   3. Get the average amount of sales/bookings/rents/deliveries for a period that involves 2 or more years   
+   4. Get the total sales/bookings/rents/deliveries by geographical location (city/country).   
+   5. List all the locations where products/services were sold, and the product has customer’s ratings    
 
 
 <br>
