@@ -29,4 +29,4 @@ In the end we had to answer several queries:
 \- Beatriz Vizoso (https://github.com/Beatrizpdv)    
 \- Inês Ribeiro (https://github.com/InesFRibeiro)   
 \- José Dias (https://github.com/josedias97)   
-\- Vasco Pombo ([https://github.com/vascopombo)
+\- Vasco Pombo (https://github.com/vascopombo)
